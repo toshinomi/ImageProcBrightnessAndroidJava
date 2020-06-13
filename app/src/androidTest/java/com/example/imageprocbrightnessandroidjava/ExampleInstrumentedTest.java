@@ -1,4 +1,4 @@
-package com.example.imageprocbrightnessandroidandroid;
+package com.example.imageprocbrightnessandroidjava;
 
 import android.content.Context;
 

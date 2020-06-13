@@ -1,10 +1,8 @@
-package com.example.imageprocbrightnessandroidandroid;
+package com.example.imageprocbrightnessandroidjava;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.ContentResolver;
 import android.content.Intent;
-import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.net.Uri;
@@ -15,6 +13,8 @@ import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.imageprocbrightnessandroidandroid.R;
 
 import java.io.InputStream;
 
